@@ -1,0 +1,43 @@
+.col,
+.material-symbols-outlined,
+.card-title,
+.card-text {
+  text-align: center;
+}
+.fa-solid {
+  font-size: 50px;
+}
+.fa-sun {
+  color: rgb(234, 201, 13);
+}
+.fa-cloud {
+  color: rgba(17, 23, 110, 0.794);
+}
+.highLow,
+.windRain {
+  padding: 20px 14px;
+  font-family: "Heebo", sans-serif;
+}
+.low,
+.rain {
+  margin-top: 22px;
+  margin-bottom: 0;
+}
+.datetime {
+  text-align: center;
+  font-family: "Heebo", sans-serif;
+}
+h1,
+h3,
+.col {
+  font-family: "Heebo", sans-serif;
+}
+.units {
+  position: relative;
+  top: -10px;
+  font-family: "Heebo", sans-serif;
+  font-size: 18px;
+}
+a {
+  text-decoration: none;
+}
